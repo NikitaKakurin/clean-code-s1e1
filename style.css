@@ -75,7 +75,7 @@ button {
 }
 
 /* Heading */
-.main__title,
+.section__title,
 .add-task__label {
   color: #333;
   font-weight: 700;
