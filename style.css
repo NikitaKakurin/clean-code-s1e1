@@ -16,8 +16,8 @@
   width: 100%;
 }
 
-.header__link {
-  font-family: "fantasy", cursive;
+.header__link {  
+  font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
